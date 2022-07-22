@@ -1,0 +1,4 @@
+*.docx
+Tensorflow/workspace/models/my_ssd_mobnet/train/
+Tensorflow/labelImg/
+Tensorflow/workspace/pre-trained-models/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8/
